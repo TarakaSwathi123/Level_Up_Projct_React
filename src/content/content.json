@@ -1,0 +1,127 @@
+{
+  "nav": {
+    
+    "links": [
+      { "text": "Interviews", "href": "#" },
+      { "text": "Our Experts", "href": "#" }
+    ]
+  },
+  "hero": {
+    "title": {
+      "start": "Practice, learn, and excel like a ",
+      "highlight": "Pro"
+    },
+    "subtitle": "Elevate your technical interview skills with our all-in-one platform.",
+    "cta": "Get started for free"
+  },
+  "practice": {
+    "title": {
+      "highlight": "Practice",
+      "rest": " your skills"
+    },
+    "description": "Diverse practice problems of varying difficulty levels, as encountered in real job interviews.",
+    "features": [
+      {
+        "text": "Solve a ",
+        "highlight": "diverse range of practice questions",
+        "description": " to enhance your coding and problem-solving abilities."
+      },
+      {
+        "text": "Familiarize yourself with common interview topics and algorithms through ",
+        "highlight": "hands-on practice",
+        "description": "."
+      }
+    ]
+  },
+  "interview": {
+      "title": {
+        "highlight": "Interview",
+        "rest": " recordings"
+      },
+      "description": "Learn from the best with our library of interview recordings conducted by top interviewers from leading companies.",
+      "features": [
+        {
+          "text": "Master your interview skills by ",
+          "highlight": "practicing the questions",
+          "description": " asked by these top companies."
+        },
+        {
+          "text": "Unlock your competitive advantage by understanding ",
+          "highlight": "interview feedback",
+          "description": "."
+        }
+      ]
+    },
+    "dailyQuiz": {
+      "title": {
+        "highlight": "Daily",
+        "rest": " quiz"
+      },
+      "description": "Answer the daily question to stay on top of your interview preparation.",
+      "features": [
+        {
+          "highlight": "Challenge yourself",
+          "description": " with a daily quiz that tests your technical knowledge and problem-solving skills."
+        },
+        {
+          "highlight": "Keep your skills sharp",
+          "description": " by regularly engaging in quick, bite-sized coding challenges."
+        }
+      ]
+    },
+    "levels": {
+      "title": {
+        "start": "How ",
+        "highlight": "Levels",
+        "end": " work on LevelUp"
+      },
+      "description": "Elevate your level by practicing, improving your skills and through Technical Rounds. Unlock job opportunities that match your level and skills.",
+      "features": [
+        {
+          "icon": "/streak.png",
+          "title": "Streak",
+          "description": "Build a habit of practicing everyday to earn rewards"
+        },
+        {
+          "icon": "/steps.png",
+          "title": "Steps",
+          "description": "Gain steps through practice by daily quiz or questions"
+        },
+        {
+          "icon": "/level.png",
+          "title": "Level",
+          "description": "100 Steps = 1 Level. Jump in levels quickly through Technical Rounds."
+        }
+      ]
+    },
+    "cta": {
+      "title": {
+        "start": "Join for ",
+        "highlight": "FREE",
+        "end": " today"
+      },
+      "description": "Elevate your interview skills with practice-based learning and gain insights from expert mock interviews. Supercharge your interview game with LevelUp today!",
+      "buttonText": "Get started for FREE"
+    },
+    "footer": {
+      "description": "Elevate your Job Search & Boost Your Chances of Landing Top-Tier Company Interviews with Expert Guidance from Industry Evaluators",
+      "links": {
+        "title": "LINKS",
+        "items": [
+          { "text": "Plans", "href": "#" },
+          { "text": "Become an Expert", "href": "#" },
+          { "text": "Hire via LevelUp", "href": "#" }
+        ]
+      },
+      "company": {
+        "title": "COMPANY",
+        "items": [
+          { "text": "About", "href": "#" },
+          { "text": "Terms & Conditions", "href": "#" },
+          { "text": "Privacy Policy", "href": "#" }
+        ]
+      },
+      "copyright": "© Copyright 2023, All Rights Reserved by LevelUp | A Nolan Edutech Pvt Ltd Venture"
+    }
+}
+
